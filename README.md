@@ -1,5 +1,5 @@
 # Parallax Forest
-# <div align="center">🟣 Hi, this is a project Parallax Forest[look here](https://alexnesvit.github.io/wrapper-img/) 🟣</div>
+# <div align="center">🟣 Hi, this is a project Parallax Forest[look here](https://alexnesvit.github.io/Parallax-Forest/) 🟣</div>
 
 ----
 
@@ -20,4 +20,4 @@
 
 ----
 
-## <div align="center">Website [WRAPPER IMG](https://alexnesvit.github.io/wrapper-img/)</div>
+## <div align="center">Website [Parallax Forest](https://alexnesvit.github.io/Parallax-Forest/)</div>
